@@ -33,3 +33,14 @@
         background: #252525;
     }
 }
+
+@media and (max-width: 500px) {
+    .main {
+        width: 100% !important;
+        height: 100%;
+    }
+
+    .main img {
+        height: 50%;
+    }
+}
