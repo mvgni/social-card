@@ -1,2 +1,2 @@
 # social-card
-social media links
+simple social media links card
