@@ -26,16 +26,16 @@
 
 @media (prefers-color-scheme: dark) {
     body {
-        color: #ccc;
-        background: #3d4353;
+        color: #ccc !important;
+        background: #3d4353 !important;
     }
     
     .links a, h1 {
-        color: #ccc;
+        color: #ccc !important;
     }
 
     .main {
-        background: #22212b;
+        background: #22212b !important;
     }
     
 }
