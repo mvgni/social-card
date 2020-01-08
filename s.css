@@ -24,7 +24,7 @@
     color: #555;
 }
 
-@media (prefers-dark-theme: dark) {
+@media (prefers-color-scheme: dark) {
     .links a {
         color: #ccc;
     }
