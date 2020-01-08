@@ -25,13 +25,19 @@
 }
 
 @media (prefers-color-scheme: dark) {
-    .links a {
+    body {
+        color: #ccc;
+        background: #3d4353;
+    }
+    
+    .links a, h1 {
         color: #ccc;
     }
 
     .main {
-        background: #252525;
+        background: #22212b;
     }
+    
 }
 
 @media (max-width: 500px) {
